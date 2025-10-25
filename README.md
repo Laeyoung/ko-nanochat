@@ -2,9 +2,16 @@
 
 한국어로 바꾸고, 한국어로 설명하기.
 
+## Audio 브리핑
+- https://github.com/Laeyoung/ko-nanochat/blob/ko/nanochat_audio.mp3
+
 ## DeepWiki
 - https://deepwiki.com/karpathy/nanochat
+- https://deepwiki.com/search/-llm_dafaf702-e4b6-4ce8-9e29-4835068ab8bc
 
+
+
+---
 
 ![nanochat logo](dev/nanochat.png)
 
